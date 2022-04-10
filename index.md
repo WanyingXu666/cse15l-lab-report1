@@ -43,3 +43,11 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 
 Type 'yes' and enter, give your password. Then you will see this:
 ![image](https://imgur.com/Zo0GHIa.jpg)
+Now your terminal is connected to a computer in the CSE basement!
+
+## Part 4 – Run Some Commands
+1. On my computer, I try running the commands cd, ls, pwd, mkdir, and cp a few times in different ways. 
+I create a new folder called test using mkdir in my "Desktop" directory. Then I create a 'xwy.text' by command 'touch' I copy the 'xwy.text' to a new folder called "folder1" and check if they have the ssame content. Also, I copy the 'xwy.text' to a folder called 'folder2' in the directory "Desktop". And then I remove the 'folder2'
+![image](https://imgur.com/ac0Xls3.jpg)
+
+2. Try the commands on the remote server.
