@@ -66,7 +66,7 @@ Secondly, try to open the file in other studen's account but it told me 'Permiss
 
 Thirdly, try to create directory, copy and remove the files on the remote server.
 
-![image](https://imgur.com/undefined.jpg)
+![image](https://imgur.com/xsmnCBv.jpg)
 Finally, run the command exit to log out.
 
 ## Part 4 – Moving Files over SSH with scp
